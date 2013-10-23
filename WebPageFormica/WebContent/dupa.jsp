@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        NAZWA:   <br/><s:property value="formBean.name"/>/<s:property value="formBean.dupa"/>
+        NAZWA:   <br/><s:property  value="formBean.name"/>/<s:property value="formBean.dupa"/>
 		        
     </body>
 </html>
